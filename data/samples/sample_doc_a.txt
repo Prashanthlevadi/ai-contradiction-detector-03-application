@@ -1,0 +1,16 @@
+RESUME OF CANDIDATE: PRASHANTH LEVADI
+
+PROFESSIONAL EXPERIENCE:
+Company: ABC Technologies
+Role: AI Research Intern
+Employment Period: January 2024 to December 2024
+Responsibilities: Built NLP information extraction pipelines.
+Project Budget: ,000 allocated for GPU compute cluster.
+
+EDUCATION:
+Degree: B.Tech in Computer Science
+Graduation: Completed in June 2024
+CGPA: 8.9 / 10.0
+
+CURRENT LOCATION:
+City: Bengaluru, India
